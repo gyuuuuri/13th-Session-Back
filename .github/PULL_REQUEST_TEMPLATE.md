@@ -32,8 +32,8 @@
 
 
 ## 🔎 Result
-![List](/Users/hwang-gyuri/멋사 세션/0325/13th-Session-Back/images/List_image.png)
-![Detail](/Users/hwang-gyuri/멋사 세션/0325/13th-Session-Back/images/Detail_image.png)
+![List](images/List_image.png)
+![Detail](images/Detail_image.png)
 
 
 ## ✍🏻 Review
