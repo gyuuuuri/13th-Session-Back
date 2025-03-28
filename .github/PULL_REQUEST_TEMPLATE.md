@@ -32,8 +32,8 @@
 
 
 ## 🔎 Result
-![List](.github/List_image.png)
-![Detail](.github/Detail_image.png)
+![List](images/List_image.png)
+![Detail](images/Detail_image.png)
 
 
 ## ✍🏻 Review
