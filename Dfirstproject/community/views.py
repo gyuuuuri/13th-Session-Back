@@ -1,4 +1,4 @@
-from django.shortcuts import render, get_list_or_404
+from django.shortcuts import render, get_object_or_404
 from django.utils import timezone
 from community.models import Post
 
@@ -9,5 +9,5 @@ def List(request):
     return render(request, 'list.html', {'posts':posts})
 
 def detail(request, pk):
-    post = get_list_or_404(Post, pk=pk)
+    post = get_object_or_404(Post, pk=pk)
     return render(request, 'detail.html', {'post':post})
